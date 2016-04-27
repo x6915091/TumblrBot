@@ -1,0 +1,26 @@
+[ Mon Apr 25 21:37:14 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Mon Apr 25 21:37:17 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set group to: public
+ 
+[ Mon Apr 25 21:37:24 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] attempted to create a new SuperGroup link
+ 
+[ Mon Apr 25 21:37:30 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set flood to [10]
+ 
+[ Mon Apr 25 21:37:39 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] unlocked tgservice actions
+ 
+[ Mon Apr 25 21:38:13 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested group link [https://telegram.me/joinchat/CLreZz4VePW66RuEV_OhcQ]
+ 
+[ Mon Apr 25 21:38:43 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] started setting new SuperGroup photo
+ 
+[ Mon Apr 25 21:38:51 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set new SuperGroup photo
+ 
+[ Mon Apr 25 21:50:14 2016 ]=>  Joðua (Ĵoŝua, Joshua) Sills Admin [142880707] joined the SuperGroup via link
+ 
+[ Mon Apr 25 22:29:55 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set admin @okazay [157727271]
+ 
+[ Mon Apr 25 22:33:19 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested SuperGroup Admins list
+ 
+[ Mon Apr 25 22:38:36 2016 ]=>  AJ [157727271] requested group link [https://telegram.me/joinchat/CLreZz4VePW66RuEV_OhcQ]
+ 
+[ Tue Apr 26 00:08:42 2016 ]=>  Pouya [106050787] is banned and kicked ! 
+ 

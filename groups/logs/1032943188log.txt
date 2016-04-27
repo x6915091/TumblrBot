@@ -1,0 +1,20 @@
+[ Mon Apr 25 16:10:26 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Mon Apr 25 16:10:30 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set group to: public
+ 
+[ Mon Apr 25 16:10:37 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] unlocked tgservice actions
+ 
+[ Mon Apr 25 16:11:21 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] attempted to create a new SuperGroup link
+ 
+[ Mon Apr 25 16:11:42 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] has changed group rules to [Check group's description.]
+ 
+[ Mon Apr 25 16:12:21 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] started setting new SuperGroup photo
+ 
+[ Mon Apr 25 16:12:32 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set new SuperGroup photo
+ 
+[ Mon Apr 25 16:14:37 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested group link [https://telegram.me/joinchat/CLreZz2RdlQIQDcTXDnMCQ]
+ 
+[ Tue Apr 26 01:08:54 2016 ]=>  Pouya [106050787] is banned and kicked ! 
+ 
+[ Tue Apr 26 03:15:24 2016 ]=>  Anton Zujev 🇷🇺🇬🇧🇨🇿🇸🇪🇩🇪 Admin [42797471] joined the SuperGroup via link
+ 

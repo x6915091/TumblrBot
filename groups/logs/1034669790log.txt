@@ -1,0 +1,16 @@
+[ Sun Apr 24 14:11:51 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Sun Apr 24 14:11:56 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set group to: public
+ 
+[ Sun Apr 24 14:12:05 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set flood to [10]
+ 
+[ Sun Apr 24 14:12:10 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] attempted to create a new SuperGroup link
+ 
+[ Sun Apr 24 14:13:33 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] unlocked tgservice actions
+ 
+[ Sun Apr 24 14:15:04 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested group link [https://telegram.me/joinchat/CLreZz2rzt5enCDRG2-SYg]
+ 
+[ Sun Apr 24 14:16:14 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set group to: public
+ 
+[ Sun Apr 24 17:48:51 2016 ]=>  Pouya [106050787] is banned and kicked ! 
+ 

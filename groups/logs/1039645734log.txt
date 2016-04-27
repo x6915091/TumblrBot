@@ -1,0 +1,8 @@
+[ Sun Apr 24 14:57:56 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] obtained id for: [139626383]
+ 
+[ Sun Apr 24 15:13:09 2016 ]=>  JhanJherrey [139626383] banned user is talking !
+ 
+[ Tue Apr 26 11:56:13 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] obtained id for: [202176786]
+ 
+[ Tue Apr 26 20:31:39 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set: [178585129] as admin by reply
+ 

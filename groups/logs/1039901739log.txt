@@ -1,0 +1,8 @@
+[ Sun Apr 17 22:25:34 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] requested group link [https://telegram.me/joinchat/CLreZz37pCugxA4_2e-g2w]
+ 
+[ Sun Apr 17 23:09:45 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 Admin [154937658] joined the SuperGroup via link
+ 
+[ Tue Apr 26 20:07:54 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested SuperGroup Admins list
+ 
+[ Tue Apr 26 20:28:20 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set: [182991387] as admin by reply
+ 

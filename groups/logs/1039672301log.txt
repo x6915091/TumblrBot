@@ -1,0 +1,12 @@
+[ Sun Apr 24 15:13:40 2016 ]=>  JhanJherrey [139626383] banned user is talking !
+ 
+[ Tue Apr 26 22:45:38 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set: [178585129] as admin by reply
+ 
+[ Wed Apr 27 17:21:30 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set: [148987048] as admin by reply
+ 
+[ Wed Apr 27 17:22:09 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested SuperGroup Admins list
+ 
+[ Wed Apr 27 17:23:15 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] demoted: [148987048] from admin by reply
+ 
+[ Wed Apr 27 17:23:22 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] obtained id for: [148987048]
+ 

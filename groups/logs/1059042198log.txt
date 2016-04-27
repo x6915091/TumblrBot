@@ -1,0 +1,16 @@
+[ Tue Apr 26 19:58:17 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Tue Apr 26 20:05:22 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Tue Apr 26 20:05:29 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] attempted to create a new SuperGroup link
+ 
+[ Tue Apr 26 20:05:34 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] requested group link [https://telegram.me/joinchat/CLreZz8fs5a2DAZ8NK457g]
+ 
+[ Wed Apr 27 15:59:23 2016 ]=>  博雅賢Yashen @TheJuggler [164213529] kicked for #spam
+ 
+[ Wed Apr 27 16:00:33 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Wed Apr 27 16:00:40 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] unlocked spam
+ 
+[ Wed Apr 27 16:00:45 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] unlocked flood
+ 

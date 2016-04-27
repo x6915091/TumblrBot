@@ -1,0 +1,185 @@
+List of Groups:
+*Use #join (ID) to join*
+
+1 - Français 🔊
+(ID: 1013836574)
+
+2 - Eesti keel
+(ID: 1016680925)
+
+3 - Linguistics
+(ID: 1019886371)
+
+4 - Türkçe
+(ID: 1024924747)
+
+5 - Español 🔊
+(ID: 1028627362)
+
+6 - Română
+(ID: 1030131387)
+
+7 - Русский
+(ID: 1030149884)
+
+8 - Español
+(ID: 1030567010)
+
+9 - Cymraeg
+(ID: 1030587276)
+
+10 - Beginner French
+(ID: 1031754957)
+
+11 - 日本語
+(ID: 1031898935)
+
+12 - 
+فارسی
+(ID: 1032382191)
+
+13 - Svenska 🔊
+(ID: 1032943188)
+
+14 - Suomi
+(ID: 1033130170)
+
+15 - Nederlands
+(ID: 1033304753)
+
+16 - Čeština
+(ID: 1033540978)
+
+17 - 日本語 🔊
+(ID: 1033581775)
+
+18 - Aur
+(ID: 1034669790)
+
+19 - Tiếng Việt
+(ID: 1034864582)
+
+20 - Bahasa Melayu
+(ID: 1035364501)
+
+21 - Afrikaans
+(ID: 1035984133)
+
+22 - Norsk
+(ID: 1036004369)
+
+23 - English 🔊
+(ID: 1036256588)
+
+24 - Dansk
+(ID: 1036338249)
+
+25 - Deutsch 🔊
+(ID: 1036385743)
+
+26 - 汉语
+(ID: 1036589608)
+
+27 - Svenska
+(ID: 1038344054)
+
+28 - Français
+(ID: 1038446017)
+
+29 - Gaeilge
+(ID: 1038958559)
+
+30 - Serbo-Croatian
+(ID: 1039265970)
+
+31 - Íslenska
+(ID: 1039512920)
+
+32 - Italiano
+(ID: 1039645734)
+
+33 - Beginner Italian
+(ID: 1039672301)
+
+34 - Beginner Japanese
+(ID: 1039901739)
+
+35 - Beginner Russian
+(ID: 1041004884)
+
+36 - Tagalog
+(ID: 1041156381)
+
+37 - Português
+(ID: 1041410799)
+
+38 - Beginner Korean
+(ID: 1041594613)
+
+39 - Català
+(ID: 1042301096)
+
+40 - हिन्दी
+(ID: 1042532944)
+
+41 - Esperanto
+(ID: 1042570642)
+
+42 - 한국어
+(ID: 1042768704)
+
+43 - LINGVA LATINA
+(ID: 1043164332)
+
+44 - Beginner German
+(ID: 1043752431)
+
+45 - Bahasa Indonesia
+(ID: 1043893005)
+
+46 - 廣東話
+(ID: 1045026881)
+
+47 - Polski
+(ID: 1045765499)
+
+48 - Ελληνικά
+(ID: 1045940876)
+
+49 - Русский 🔊
+(ID: 1046019848)
+
+50 - Deutsch
+(ID: 1046196890)
+
+51 - English
+(ID: 1046383431)
+
+52 - Beginner Swedish
+(ID: 1046594329)
+
+53 - Beginner Arabic
+(ID: 1046707730)
+
+54 - American Sign Language
+(ID: 1046716487)
+
+55 - Українська
+(ID: 1047399610)
+
+56 - Beginner Mandarin
+(ID: 1047693158)
+
+57 - Beginner English
+(ID: 1048508411)
+
+58 - Euskara
+(ID: 1049513587)
+
+59 - 
+العربية
+(ID: 1049914766)
+
+60 - Beginner Spanish
+(ID: 1049984872)
+

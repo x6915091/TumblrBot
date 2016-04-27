@@ -1,0 +1,26 @@
+[ Tue Apr 19 14:39:40 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] added SuperGroup
+ 
+[ Tue Apr 19 14:39:45 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] attempted to create a new SuperGroup link
+ 
+[ Tue Apr 19 14:40:46 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] set group to: public
+ 
+[ Tue Apr 19 14:41:09 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] started setting new SuperGroup photo
+ 
+[ Tue Apr 19 14:41:15 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] set new SuperGroup photo
+ 
+[ Tue Apr 19 14:42:54 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] has changed group rules to [Check group's description for the rules.]
+ 
+[ Tue Apr 19 14:43:02 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] requested group link [https://telegram.me/joinchat/CLreZz5Y_whdDUD4DxZpAg]
+ 
+[ Tue Apr 19 14:45:49 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] unlocked tgservice actions
+ 
+[ Tue Apr 19 14:46:01 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] set flood to [10]
+ 
+[ Tue Apr 19 15:54:28 2016 ]=>  JohnPhilip [138312364] is banned and kicked ! 
+ 
+[ Tue Apr 19 18:01:36 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] has changed group rules to [Правила находятся в описании группы.]
+ 
+[ Sat Apr 23 23:49:28 2016 ]=>  Pouya [106050787] is banned and kicked ! 
+ 
+[ Sun Apr 24 12:32:32 2016 ]=>  Guil 🇧🇷➡🇺🇸 [154937658] set SuperGroup to: mute Text
+ 

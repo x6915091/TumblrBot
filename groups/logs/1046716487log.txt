@@ -1,0 +1,14 @@
+[ Sun Apr 17 21:54:36 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] requested SuperGroup Admins list
+ 
+[ Sun Apr 17 22:04:39 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] requested SuperGroup Admins list
+ 
+[ Sun Apr 17 22:51:55 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] unlocked tgservice actions
+ 
+[ Sun Apr 17 22:52:02 2016 ]=>  👮Guil 🇧🇷➡🇺🇸 [154937658] requested SuperGroup settings 
+ 
+[ Mon Apr 18 09:25:36 2016 ]=>  Jules ☺️ [173272577] requested SuperGroup Admins list
+ 
+[ Mon Apr 18 09:26:19 2016 ]=>  Jules ☺️ [173272577] demoted @admin falafeless
+ 
+[ Fri Apr 22 12:32:52 2016 ]=>  Jules ☺️ [173272577] set SuperGroup description to: Welcome to the ASL chat! Everyone is welcome! (Please keep in mind that this chat is for learning sign language, it's not at all connected to learning English)
+ 
